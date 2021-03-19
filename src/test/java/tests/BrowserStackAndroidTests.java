@@ -18,8 +18,8 @@ public class BrowserStackAndroidTests {
         DesiredCapabilities caps = new DesiredCapabilities();
 
         // Set your access credentials
-        caps.setCapability("browserstack.user", "qaguru3");
-        caps.setCapability("browserstack.key", "PDQAwqS6GqzeNLqsj92r");
+        caps.setCapability("browserstack.user", "bsuser7502162972");
+        caps.setCapability("browserstack.key", "wkEgAtpYVVaG9VkXKTfm");
 
         // Set URL of the application under test
         caps.setCapability("app", "bs://c700ce60cf13ae8ed97705a55b8e022f13c5827c");

@@ -60,6 +60,7 @@ tasks.withType(Test) {
 
 test {
     useJUnitPlatform()
+
 }
 
 task android_tests(type: Test) {
